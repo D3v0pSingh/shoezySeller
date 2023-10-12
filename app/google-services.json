@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "286783375370",
+    "project_id": "shoezy-2b533",
+    "storage_bucket": "shoezy-2b533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286783375370:android:3642f90eb160b661bfb7f3",
+        "android_client_info": {
+          "package_name": "com.example.shoezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286783375370-s8dbfinnrockfqdvqdpgle7coqv9o4ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGbJjCZWDoJLh2pGpY13ihvWAWueybSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286783375370-s8dbfinnrockfqdvqdpgle7coqv9o4ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286783375370:android:3d7521d5e33672d7bfb7f3",
+        "android_client_info": {
+          "package_name": "com.example.shoezyseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286783375370-s8dbfinnrockfqdvqdpgle7coqv9o4ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGbJjCZWDoJLh2pGpY13ihvWAWueybSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286783375370-s8dbfinnrockfqdvqdpgle7coqv9o4ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
